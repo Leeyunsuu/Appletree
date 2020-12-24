@@ -1,0 +1,77 @@
+.problem-header{
+    font-size: 25px;
+    padding: 20px 30px;
+}
+.problem-header-text-font-style{
+    margin: 0px;
+}
+.problem-solution-content{
+    margin: 0px;
+    font-size: 20px;
+}
+.problem-solution-content-style{
+    padding: 5px 30px;
+}
+.shortcut-icon{
+    content:url("shortcut_icon.jpg");
+    width: 60px;
+    height: 60px;
+    object-fit: fill;
+    position: relative;
+    margin-top:25px;
+}
+#shortcut-icon-alignment{
+    display: grid;
+    grid-template-columns: 80px 1fr;
+}
+.alignment{
+    padding-left:10px;
+    padding-top: 50px;
+}
+.setting1image{
+    content:url("setting.png");
+    width: 180px;
+    object-fit: fill;
+    position: relative;
+    margin-top:25px;
+}
+.setting2image{
+    content:url("setting2.png");
+    width: 180px;
+    object-fit: fill;
+    position: relative;
+    margin-top:25px;
+}
+.setting3image{
+    content:url("setting3.png");
+    width: 180px;
+    object-fit: fill;
+    position: relative;
+    margin-top:25px;
+}
+.bottombar{
+    background: #323639;
+    text-align: center;
+    padding: 30px 0px 50px 0px;
+}
+.bottombar_text{
+    font-size: 12px;
+    padding: 2px 0px 2px 0px;
+}
+.problem2_1_image{
+    content:url("problem2_1.jpg");
+    width: 180px;
+    object-fit: fill;
+    position: relative;
+    margin-top:25px;
+}
+.problem2_2_image{
+    content:url("problem2_2.jpg");
+    width: 180px;
+    object-fit: fill;
+    position: relative;
+    margin-top:25px;
+}
+body{
+    margin: 0px;
+}

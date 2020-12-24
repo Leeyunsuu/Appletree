@@ -1,0 +1,34 @@
+#menu-bar{
+    padding: auto; 
+}
+.problems{
+    padding: 20px 20px 10px;
+    margin:0px;
+    border-bottom: solid 3px #848889;  
+    
+}
+.menu-list{
+    padding: 0px;
+    margin:0px;
+}
+.problems-list{
+    padding: 15px 20px 5px;
+    border-bottom: solid 3px #848889;
+}
+.body-text-style{
+    font-size: 22px;
+}
+.textstyle{
+    color: #848889;
+    text-decoration: none;
+    font-family: "Malgun Gothic", "굴림", "Gulim", "Arial";
+}
+.exit{
+    content:url("exit.png");
+    width:20px;
+    height:20px;
+    padding-right: 3px;
+}
+body{
+    background-color: #323639;
+}

@@ -1,0 +1,79 @@
+#topbar{
+    display: grid;
+    background: #323639 ;
+    padding-left: 35px;
+    padding-right: 35px;
+    grid-template-columns: 50px 1fr 50px;
+}
+/*#mainimage{
+
+}*/
+.shortcut{
+    content:url("shortcut.png");
+    width:100%;
+    object-fit: fill;
+    position: relative;
+    margin-top:25px;
+}
+.covid19{
+    content:url("covid19.png");
+    width:100%;
+    object-fit: fill;
+    position: absolute;
+    top: 75px;
+    margin-top:25px;
+}
+.menu  {
+    content:url("menu.png" );
+    width: 50px;
+    height: 50px;
+    object-fit: fill;
+     padding-top: 10px;
+}
+.appletreemain {
+    text-align: center;
+    font-size: 30px;
+    padding-top: 10px;
+     margin: 0px;
+}
+.sharing{
+    content:url("sharing.png");
+    width: 50px;
+    height: 50px;
+    object-fit: fill;
+    padding-top: 10px;
+}
+.textstyle{
+    text-decoration: none;
+    font-family: "Malgun Gothic", "굴림", "Gulim", "Arial";
+}
+.maintextstyle{
+    color: #848889;
+}
+.bodyofpage{
+    text-align: center;
+    color: #333333; 
+}
+.icloudlink{
+    color: #1A5E8C;
+    font-size: 20px;
+}
+.problemlink{
+    color: #1A5E8C;
+    text-decoration: underline;
+}
+.download{
+    content:url("download.png");
+    width:50px;
+    height:50px;
+}
+h1{
+    margin: 0px;
+    font-size: 50px;
+    
+}
+body{
+    background-color: #FFFFFF;
+    margin: 0%; 
+    margin-bottom: 5px;
+}
